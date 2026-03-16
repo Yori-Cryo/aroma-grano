@@ -1,0 +1,53 @@
+id,producto,precio,cantidad,tipo,fecha
+1,Espresso,3.5,2,Bebida,2024-03-01
+2,Latte,4.5,1,Bebida,2024-03-01
+3,Capuccino,4.8,3,Bebida,2024-03-01
+4,Muffin,3.0,NaN,Comida,2024-03-01
+5,Cold Brew,5.5,1,Bebida,2024-03-02
+2,Latte,4.5,1,Bebida,2024-03-01
+6,Espresso,3.5,2,Bebida,2024-03-02
+7,Pastel de Chocolate,5.0,1,Comida,2024-03-02
+8,Latte,4.5,NaN,Bebida,2024-03-02
+9,Muffin,3.0,2,Comida,2024-03-03
+10,Cold Brew,5.5,10,Bebida,2024-03-03
+11,Espresso,3.5,1,Bebida,2024-03-03
+12,Latte,4.5,"1",Bebida,2024-03-03
+13,Capuccino,4.8,2,Bebida,2024-03-04
+14,Muffin,3.0,5,Comida,2024-03-04
+15,Pastel de Chocolate,5.0,2,Comida,2024-03-04
+16,Espresso,3.5,1,Bebida,2024-03-04
+17,Cold Brew,5.5,NaN,Bebida,2024-03-05
+18,Latte,4.5,3,Bebida,2024-03-05
+19,Espresso,3.5,1,Bebida,2024-03-05
+20,Muffin,3.0,2,Comida,2024-03-05
+21,Capuccino,4.8,1,Bebida,2024-03-05
+22,Pastel de Chocolate,5.0,1,Comida,2024-03-06
+23,Latte,4.5,2,Bebida,2024-03-06
+24,Espresso,3.5,4,Bebida,2024-03-06
+25,Cold Brew,5.5,1,Bebida,2024-03-06
+26,Muffin,3.0,1,Comida,2024-03-06
+27,Espresso,3.5,2,Bebida,2024-03-07
+28,Latte,4.5,1,Bebida,2024-03-07
+29,Capuccino,4.8,3,Bebida,2024-03-07
+30,Muffin,3.0,4,Comida,2024-03-07
+31,Cold Brew,5.5,2,Bebida,2024-03-08
+32,Espresso,3.5,1,Bebida,2024-03-08
+33,Latte,4.5,1,Bebida,2024-03-08
+34,Capuccino,4.8,2,Bebida,2024-03-08
+35,Pastel de Chocolate,5.0,3,Comida,2024-03-09
+36,Muffin,3.0,1,Comida,2024-03-09
+37,Espresso,3.5,5,Bebida,2024-03-09
+38,Cold Brew,5.5,NaN,Bebida,2024-03-09
+39,Latte,4.5,2,Bebida,2024-03-09
+40,Espresso,3.5,1,Bebida,2024-03-10
+41,Muffin,3.0,2,Comida,2024-03-10
+42,Capuccino,4.8,1,Bebida,2024-03-10
+43,Pastel de Chocolate,5.0,1,Comida,2024-03-10
+44,Latte,4.5,1,Bebida,2024-03-11
+45,Espresso,3.5,3,Bebida,2024-03-11
+46,Cold Brew,5.5,1,Bebida,2024-03-11
+47,Muffin,3.0,2,Comida,2024-03-11
+48,Capuccino,4.8,2,Bebida,2024-03-11
+49,Pastel de Chocolate,5.0,1,Comida,2024-03-12
+50,Espresso,3.5,2,Bebida,2024-03-12
+10,Cold Brew,5.5,10,Bebida,2024-03-03
